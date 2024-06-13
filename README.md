@@ -1,2 +1,3 @@
-# test
-1st repo for uploading my jupyter notebook
+This project uses machine learning and natural language processing (NLP) to analyze the sentiment of public reactions to tweets. We focus on categorizing tweets as positive, negative, or neutral based on their feedback. To do this, we employ logistic regression, a type of machine learning algorithm .
+First, we collect tweets and their corresponding public reactions. Then, we preprocess the data to clean and prepare it for analysis. Next, we use NLP techniques to extract features from the text, such as tokenization and TF-IDF. These features are then used as input to train the logistic regression model .
+Once the model is trained, we can use it to predict the sentiment of new tweets. This analysis provides valuable insights into the public's perception of tweets, helping us understand the overall sentiment surrounding a topic .
